@@ -1,11 +1,13 @@
-project to do 
+Project To do 
 
-fix collisions for game over
-menu
-skins for the animals
-fix the food collision/trigger
-sfx
-bigger scene
-starts with "head" 
-camera - wall issue
-change variable names 
+Menu
+Vision & Scope document
+Use Cases document
+
+For later phases:
+Character models
+Game over
+SFX
+Smooth camera movement
+Character animation
+Score increment change
